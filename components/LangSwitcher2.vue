@@ -10,20 +10,21 @@ onMounted(() => {
 })
 
 function changeLang() {
-  if (locale.value === 'tr') {
-    cookieLocale.setLocale('en')
-    locale.value = 'en'
-  }
-  else {
-    cookieLocale.setLocale('tr')
-    locale.value = 'tr'
-  }
+  cookieLocale.setLocale('en')
+  locale.value = 'en'
+  // if (locale.value === 'tr') {
+  //
+  // }
+  // else {
+  //   cookieLocale.setLocale('tr')
+  //   locale.value = 'tr'
+  // }
 }
 </script>
 
 <template>
   <div class="cursor-pointer transition-all fade" @click="changeLang()">
-    <img :src="`/flags/${locale}.png`" class="h-6">
+    <img src="/flags/USA.jpeg" class="h-6">
   </div>
 </template>
 

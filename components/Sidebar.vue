@@ -15,12 +15,12 @@ function toggleMenu() {
 
       <div class="info-content">
         <h1 class="name" title="Azad Furkan ŞAKAR">
-          Azad Furkan ŞAKAR
+          Anuj Vadecha
         </h1>
 
         <p class="title text-center xl:block flex items-center justify-center gap-1">
-          <span class="xl:after:content-[''] after:content-[',']">Civil Engineer</span>
-          <span>Web developer</span>
+          <span class="xl:after:content-[''] after:content-[',']">Software Engineer</span>
+          <span>Fullstack Developer</span>
         </p>
       </div>
 
@@ -45,7 +45,7 @@ function toggleMenu() {
               Email
             </p>
 
-            <a href="mailto:info@afsakar.com" class="contact-link">info@afsakar.com</a>
+            <a href="mailto:avadecha@gmail.com" class="contact-link">avadecha@gmail.com</a>
           </div>
         </li>
 
@@ -59,7 +59,7 @@ function toggleMenu() {
               Github
             </p>
 
-            <a href="https://github.com/afsakar" class="contact-link" target="_blank">afsakar</a>
+            <a href="https://github.com/anujvadecha" class="contact-link" target="_blank">anujvadecha</a>
           </div>
         </li>
 
@@ -73,7 +73,7 @@ function toggleMenu() {
               Linkedin
             </p>
 
-            <a href="https://tr.linkedin.com/in/afsakar" class="contact-link" target="_blank">Azad Furkan ŞAKAR</a>
+            <a href="https://www.linkedin.com/in/anuj-vadecha-50887b173/" class="contact-link" target="_blank">Anuj Vadecha</a>
           </div>
         </li>
 
@@ -87,7 +87,7 @@ function toggleMenu() {
               Location
             </p>
 
-            <address>Diyarbakır, Turkey</address>
+            <address>Buffalo, NY, USA</address>
           </div>
         </li>
       </ul>
@@ -95,14 +95,14 @@ function toggleMenu() {
       <div class="separator" />
 
       <ul class="social-list">
-        <li class="social-item">
-          <NuxtLink to="https://www.twitter.com/afsakar" class="social-link" target="_blank">
-            <ion-icon name="logo-twitter" />
-          </NuxtLink>
-        </li>
+<!--        <li class="social-item">-->
+<!--          <NuxtLink to="https://www.twitter.com/afsakar" class="social-link" target="_blank">-->
+<!--            <ion-icon name="logo-twitter" />-->
+<!--          </NuxtLink>-->
+<!--        </li>-->
 
         <li class="social-item">
-          <NuxtLink to="https://www.instagram.com/afsakar" class="social-link" target="_blank">
+          <NuxtLink to="https://www.instagram.com/anujvadecha" class="social-link" target="_blank">
             <ion-icon name="logo-instagram" />
           </NuxtLink>
         </li>

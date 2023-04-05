@@ -1,7 +1,7 @@
 <template>
   <div class="h-screen w-full flex items-center justify-center">
     <h2 class="animate">
-      <img src="/afsakar-logo.png" class="w-40">
+      <img src="/Anuj.png" class="w-40">
     </h2>
   </div>
 </template>

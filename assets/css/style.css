@@ -126,11 +126,11 @@
   box-sizing: border-box;
 }
 
-a { text-decoration: none; }
+/*a { text-decoration: none; }*/
 
 li { list-style: none; }
 
-img, ion-icon, a, button, time, span { display: block; }
+img, ion-icon,  button, time, span { display: block; }
 
 button {
   font: inherit;
@@ -952,7 +952,7 @@ main {
   100% { transform: scale(1); }
 }
 
-.project-item > a { width: 100%; }
+/*.project-item > a { width: 100%; }*/
 
 .project-img {
   position: relative;

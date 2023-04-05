@@ -26,29 +26,25 @@ useHead({
       <ol class="timeline-list">
         <li class="timeline-item">
           <h4 class="h4 timeline-item-title">
-            University school of the arts
+            University at Buffalo (SUNY) <i> Masters in Computer Science and Engineering</i>
           </h4>
 
-          <span>2007 — 2008</span>
+          <span>2022-2023</span>
 
           <p class="timeline-text">
-            Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et
-            quas molestias
-            exceptur.
+            Analysis of Algorithms, Distributed Systems, Project Development, Technological Entrepreneurship, Machine Learning
           </p>
         </li>
 
         <li class="timeline-item">
           <h4 class="h4 timeline-item-title">
-            New york academy of art
+            University of Mumbai(K.J Somaiya College of Engineering)
           </h4>
 
-          <span>2006 — 2007</span>
+          <span>2016 — 2020</span>
 
           <p class="timeline-text">
-            Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda
-            est
-            omnis..
+            Data Structures, Object-Oriented Programming, Analysis of Algorithms, Relational Database Management Systems, Cloud Computing, Operating Systems, Project Management, SDLC
           </p>
         </li>
 
